@@ -1,0 +1,12 @@
+<suite name="AllTests" verbose="1" parallel="classes" thread-count="2">
+    <listeners>
+        <listener class-name="listeners.AllureListener" />
+    </listeners>
+
+    <test name="UI Tests">
+        <classes>
+            <class name="tests.App2LoginTest"/>
+            <class name="tests.App3LoginTest"/>
+        </classes>
+    </test>
+</suite>

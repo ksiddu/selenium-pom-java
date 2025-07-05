@@ -1,0 +1,20 @@
+1. App 1 - the-internet
+
+url = https://the-internet.herokuapp.com/login
+
+username = tomsmith
+password = SuperSecretPassword!
+
+2. App 2 - automationexercise
+
+url = https://automationexercise.com/login
+
+username = webauto@gmail.com
+password = Test@123
+
+3. App 3 - demoqa
+
+url = https://demoqa.com/login
+
+username = autotest
+password = Test@123
